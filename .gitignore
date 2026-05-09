@@ -396,3 +396,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# ── ARIA Voice Assistant ───────────────────────────────────────────────────────
+.env
+credentials.json
+token.pickle
+aria_cache.db
+aria.log
+notes/
+screenshot_*.png
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
