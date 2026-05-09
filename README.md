@@ -104,7 +104,7 @@
 ### 1. Clone and create environment
 
 ```bash
-git clone https://github.com/your-username/VoiceAssistant.git
+git clone https://github.com/PranjolDas10/VoiceAssistant.git
 cd VoiceAssistant
 python -m venv venv
 venv\Scripts\activate       # Windows
